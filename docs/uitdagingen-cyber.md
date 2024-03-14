@@ -153,7 +153,7 @@ Als je nog niet of niet goed met Git werkt dan is dit natuurlijk het moment om n
 
 ## Security
 
-### Beginner: Je wachtwoorden en password dmanagers
+### Beginner: Je wachtwoorden en password managers
 
 Hoe ga jij nu met je wachtwoorden om? Overal dezelfde? Een boekje onder je toetsenbord? Slaat je browser alles op?
 
