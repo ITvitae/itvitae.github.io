@@ -11,7 +11,7 @@
 }
 
 * {
-    font-family: Arial, sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, Calibri, Arial, sans-serif;
     color: var(--col-text-dark);
     margin: 0;
     padding: 0;
@@ -46,6 +46,7 @@ ul, ol {
 table, th, td {
     border: 1px solid;
     padding: 2px 5px;
+    border-collapse: collapse;
 }
 
 th {
