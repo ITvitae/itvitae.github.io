@@ -6,15 +6,13 @@ permalink: /orientatie/cyber
 
 # ITvitae Oriëntatie Cyber Security Specialist
 
-## Achtergrondinformatie
-
-### Wat ga je doen?
+## Wat ga je doen?
 
 Als toekomstig cyber security expert weet jij straks ontzettend veel over computers in het algemeen en informatiebeveiliging in het bijzonder.
 Hieronder volgen een paar praktische definities.
 Het is niet de bedoeling dat je deze definities uit je hoofd leert.
 
-#### Informatiebeveiliging
+### Informatiebeveiliging
 Wikipedia biedt de volgende definitie van informatiebeveilig:
 
 "Informatiebeveiliging is het geheel van preventieve, detectieve, repressieve en correctieve maatregelen alsmede procedures en processen die de beschikbaarheid, exclusiviteit en integriteit van alle vormen van informatie binnen een organisatie of een maatschappij garanderen, met als doel de continuïteit van de informatie en de informatievoorziening te waarborgen en de eventuele gevolgen van beveiligingsincidenten tot een acceptabel, vooraf bepaald niveau te beperken."
@@ -23,7 +21,7 @@ Dat is een hele mond vol, maar dekt de lading wel netjes.
 Welke rol jij straks precies gaat krijgen binnen de informatiebeveilig is nu nog niet duidelijk (en ook niet relevant).
 Ongeacht je rol, als cyber security specialist ben jij straks (mede) verantwoordelijk voor het waarmaken van bovenstaande doel.
 
-#### Beveiliging
+### Beveiliging
 
 Security is uiteraard een centraal theme in de cyber security track.
 Beveiliging draait om het verhogen van veiligheid en het verminderen van risicos.
@@ -33,7 +31,7 @@ Security is een divers en breed domein.
 Tijdens de cyber security track krijg je daarom een algemene introductie security.
 Daarna is het de bedoeling dat je scherp blijft op security vraagstukken in de verdere verloop van het traject.
 
-#### IT en ICT
+### IT en ICT
 IT, als in Informatie Technologie, staat uiteraard centraal binnen de cyber security track.
 Met name het subdomein ICT, als in Informatie en Communicatie Technologie.
 Dit is het stukje waar de meeste mensen als eerste aan denken als ze de term cyber security horen.
@@ -82,11 +80,13 @@ Ga verder met onze [uitdagingen](/uitdagingen).
 
 ### Boeken, om te lezen
 
-| Titel                                                   | Auteur(s)       | Thema                    | Niveau     |
-|:--------------------------------------------------------|:----------------|--------------------------|------------|
-| Het is oorlog maar niemand die het ziet                 | Huib Modderkolk | Algemeen, security       | Beginner   |
-| 孫子兵法 (The Art of War/De kunst van het oorlogvoeren) | Sun Tzu         | Security                 | -          |
-| The Cathedral & the Bazaar                              | Eric S Raymond  | Programming, open source | Gavanceerd |
+| Titel                                                                                    | Auteur(s)       | Thema                    | Niveau     |
+|:-----------------------------------------------------------------------------------------|:----------------|--------------------------|------------|
+| Het is oorlog maar niemand die het ziet                                                  | Huib Modderkolk | Algemeen, security       | Beginner   |
+| 孫子兵法 (The Art of War/De kunst van het oorlogvoeren)                                  | Sun Tzu         | Security                 | -          |
+| The Cathedral & the Bazaar                                                               | Eric S Raymond  | Programming, open source | Gavanceerd |
+| Security Engineering (https://www.cl.cam.ac.uk/~rja14/book.html - 2nd edition is gratis) | Ross Anderson   | Security                 | Gevorderd  |
+| A Hacker's Mind                                                                          | Bruce Schneier  | Hacking                  | Gevorderd  |
 
 ### Videos, om te kijken
 

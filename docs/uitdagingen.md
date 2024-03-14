@@ -94,7 +94,7 @@ Benodigdheden:
 - Installeer de *addblocker* genaamd *uBlock Origin* in je Chrome of Firefox.
 - Hoe zet je uBlock tijdelijk uit?
 
-#### Beginner: Bekijk je BIOS/UEFI
+### Beginner: Bekijk je BIOS/UEFI
 
 Benodigdheden:
 - PC (met Windows, GNU/Linux distributie of zonder besturingssyteem)
