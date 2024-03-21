@@ -5,11 +5,15 @@ title: ITvitae
 
 # ITvitae
 
-Op deze pagina kun je terecht voor de volgende zaken:
+## Voor toekomstige deelnemers
 
 Onze [oriëntatie](/orientatie) documenten.
 
----
+## Voor deelnemers
+
+[Interessante of nuttige bronnen ter aanvulling van de reguliere trajecten.](https://github.com/ITvitae/extracurricular)
+
+## Algemeen
 
 [ITvitae Homepage](https://itvitae.nl)
 
