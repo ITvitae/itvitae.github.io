@@ -36,7 +36,7 @@ IT, als in Informatie Technologie, staat uiteraard centraal binnen de cyber secu
 Met name het subdomein ICT, als in Informatie en Communicatie Technologie.
 Dit is het stukje waar de meeste mensen als eerste aan denken als ze de term cyber security horen.
 
-IT is een breed veld en zodoende worden tijdens de cyber security track een paar belangrijke onderwerpen in de schijnwerpers.
+IT is een breed veld en zodoende worden tijdens de cyber security track een paar belangrijke onderwerpen in de schijnwerpers gezet.
 Het gaat dan om de volgende onderwerpen (in het Engels):
 
 - Networking
