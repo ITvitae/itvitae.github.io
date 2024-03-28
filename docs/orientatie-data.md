@@ -8,6 +8,34 @@ permalink: /orientatie/data
 
 ## Wat ga je doen?
 
+Als toekomstig data engineer weet jij straks ontzettend veel over computers in het algemeen. Je specialiseert je echter vooral in het verzamelen, beheren en verwerken van data en het onderhouden van (een deel van) de daarvoor benodigde onderliggende infrastructuur.
+
+Hieronder volgen een paar praktische definities.
+Het is niet de bedoeling dat je deze definities uit je hoofd leert.
+
+### Data
+
+De Nederlandstalige versie over [data](https://nl.wikipedia.org/wiki/Gegeven) vormt een leuke, korte samenvatting.
+
+### Data verzamelen
+Het verzamelen van data is een van de mogelijke onderwerpen waar een Data Engineer mee te maken krijgt.
+Denk aan termen zoals het *scrapen* of extraheren van data.
+
+### Data opslag en beheer
+Verzamelde gegevens worden opgeslagen voor verdere verwerking.
+Het inrichten, uitpluizen, ontsluiten en verbeteren van data (opslag) past helemaal in het straatje van de Data Engineer.
+Denk hier ook aan het inrichten van backups.
+
+### Data verwerken
+Aan het enkel opslaan van gegevens heeft over het algemeen niemand iets.
+Om uiteindelijk bij kennis uit te komen zal er waarschijnlijk iets moeten gebeuren met de opgeslagen gegevens.
+Dat iets, dat kan de Data Engineer dan weer programmeren.
+
+### IT en ICT
+IT, als in Informatie Technologie, staat uiteraard centraal binnen de data engineering track.
+Met name de onderwerpen databases en programming.
+Verdere aandacht gaat naar basiskennis betreffende networking en security.
+
 ## Uitdagingen
 
 Ga verder met onze [uitdagingen](/uitdagingen).
@@ -32,7 +60,7 @@ Ga verder met onze [uitdagingen](/uitdagingen).
 
 | Titel                                                                                    | Auteur(s)       | Thema                    | Niveau     |
 |:-----------------------------------------------------------------------------------------|:----------------|--------------------------|------------|
-| The Cathedral & the Bazaar                                                               | Eric S Raymond  | Programming, open source | Gavanceerd |
+| The Cathedral & the Bazaar                                                               | Eric S Raymond  | Programming, open source | Geavanceerd |
 
 ### Videos, om te kijken
 
