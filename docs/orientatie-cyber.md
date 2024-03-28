@@ -84,7 +84,7 @@ Ga verder met onze [uitdagingen](/uitdagingen).
 |:-----------------------------------------------------------------------------------------|:----------------|--------------------------|------------|
 | Het is oorlog maar niemand die het ziet                                                  | Huib Modderkolk | Algemeen, security       | Beginner   |
 | 孫子兵法 (The Art of War/De kunst van het oorlogvoeren)                                  | Sun Tzu         | Security                 | -          |
-| The Cathedral & the Bazaar                                                               | Eric S Raymond  | Programming, open source | Gavanceerd |
+| The Cathedral & the Bazaar                                                               | Eric S Raymond  | Programming, open source | Geavanceerd |
 | Security Engineering (https://www.cl.cam.ac.uk/~rja14/book.html - 2nd edition is gratis) | Ross Anderson   | Security                 | Gevorderd  |
 | A Hacker's Mind                                                                          | Bruce Schneier  | Hacking                  | Gevorderd  |
 
