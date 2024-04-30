@@ -1,23 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel='stylesheet' href='/assets/css/style.css'>
-    <title>{{ site.title }}</title>
-</head>
-<body>
-    <div id='main'>
-        <nav>
-            <a id='navHome' href='/'><img src='/assets/images/logo.png'></a>
-            <ul id='navLinks'>
-                <li><a href='/orientatie'>Orientatie</a></li>
-                <li><a href='/uitdagingen'>Uitdagingen</a></li>
-            </ul>
-        </nav>
-        <div id='mainContent'>
-            {{ content }}
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel='stylesheet' href='/assets/css/style.css'>
+        <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
+        <title>{{ site.title }}</title>
+    </head>
+    <body>
+        <div id='main'>
+            <nav>
+                <a id='navHome' href='/'><img src='/assets/images/logo.png'></a>
+                <ul id='navLinks'>
+                    <li><a href='/orientatie'>Orientatie</a></li>
+                    <li><a href='/uitdagingen'>Uitdagingen</a></li>
+                </ul>
+            </nav>
+            <div id='mainContent'>
+                {{ content }}
+            </div>
         </div>
-    </div>
-</body>
+    </body>
 </html>
