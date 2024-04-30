@@ -11,7 +11,7 @@ Onze [oriëntatie](/orientatie) documenten.
 
 ## Voor deelnemers
 
-[Interessante of nuttige bronnen ter aanvulling van de reguliere trajecten.](https://github.com/ITvitae/extracurricular)
+Interessante of nuttige [bronnen](https://github.com/ITvitae/extracurricular) ter aanvulling van de reguliere trajecten.
 
 ## Algemeen
 
