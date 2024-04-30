@@ -14,7 +14,7 @@ Hieronder volgen een paar praktische definities.
 Het is niet de bedoeling dat je deze definities uit je hoofd leert.
 
 ### Data
-De Nederlandstalige versie over [data](https://nl.wikipedia.org/wiki/Gegeven) vormt een leuke, korte samenvatting.
+Het [Nederlandstalige Wikipedia artikel over data](https://nl.wikipedia.org/wiki/Gegeven) vormt een leuke, korte samenvatting.
 
 ### Data verzamelen
 Het verzamelen van data is een van de mogelijke onderwerpen waar een data engineer mee te maken krijgt.
