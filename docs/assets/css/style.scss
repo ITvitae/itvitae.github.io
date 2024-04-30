@@ -10,7 +10,7 @@
     --col-nav-url: rgb(68, 68, 68);
     --col-content-url: rgb(90, 158, 222);
     --col-gray: #313131;
-    --col-light-gray: #e6e6e6;
+    --col-light-gray: #f7f7f7;
 }
 
 * {
@@ -87,6 +87,7 @@ a, a:visited, a:hover {
     /* color: var(--col-orange); */
     color: var(--col-content-url);
     text-decoration: none;
+    font-weight: 400;
 }
 
 ul, ol {
@@ -140,7 +141,7 @@ tr:nth-child(even) {
 }
 
 .content {
-    margin: 0 1em;
+    padding: 0 1em;
 }
 
 // Nav
@@ -150,7 +151,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 10px;
+    padding: 5px 10px 1px 10px;
     background-color: var(--col-light-gray);
 }
 
