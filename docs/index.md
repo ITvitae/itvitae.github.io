@@ -1,14 +1,12 @@
 ---
 layout: page
-title: ITvitae
+title: 🏠 itvitae.github.io
 ---
-
-# ITvitae
 
 ## Voor toekomstige deelnemers
 
 Onze [oriëntatie](/orientatie) documenten.  
-Onze [oriëntatie FAQ](/orientatie/faq) documenten.  
+Onze [oriëntatie FAQ](/orientatie/faq).  
 
 ## Voor deelnemers
 
