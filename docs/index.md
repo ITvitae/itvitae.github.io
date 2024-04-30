@@ -7,7 +7,8 @@ title: ITvitae
 
 ## Voor toekomstige deelnemers
 
-Onze [oriëntatie](/orientatie) documenten.
+Onze [oriëntatie](/orientatie) documenten.  
+Onze [oriëntatie FAQ](/orientatie/faq) documenten.  
 
 ## Voor deelnemers
 

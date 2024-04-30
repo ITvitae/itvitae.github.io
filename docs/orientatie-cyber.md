@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oriëntatie
+title: Oriëntatie - Cyber Security Specialist
 permalink: /orientatie/cyber
 ---
 

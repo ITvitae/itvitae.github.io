@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oriëntatie
+title: Oriëntatie Uitdagingen
 permalink: /uitdagingen/
 ---
 
