@@ -32,7 +32,7 @@ Tijdens de cyber security track krijg je daarom een algemene introductie securit
 Daarna is het de bedoeling dat je scherp blijft op security vraagstukken in de verdere verloop van het traject.
 
 ### IT en ICT
-IT, als in Informatie Technologie, staat uiteraard centraal binnen de cyber security track.
+IT, als in Informatie Technologie, staat uiteraard centraal binnen de Cyber Security Specialist track.
 Met name het subdomein ICT, als in Informatie en Communicatie Technologie.
 Dit is het stukje waar de meeste mensen als eerste aan denken als ze de term cyber security horen.
 

@@ -152,4 +152,4 @@ Daarna lees je simpelweg wat er staat en volgt de instructies in het document.
 Verdere uitdagingen per track:
 
 - [Cyber Security Specialist](/uitdagingen/cyber)
-- [Data Engineer](/uitdagingen/data)
+- [Data Engineer/Data Scientist](/uitdagingen/data)

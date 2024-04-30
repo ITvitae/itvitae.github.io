@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Oriëntatie - Data Engineer
+title: Oriëntatie - Data Engineer/Data Scientist
 permalink: /orientatie/data
 ---
 
-# ITvitae Oriëntatie Data Engineer
+# ITvitae Oriëntatie Data Engineer/Data Scientist
 
 ## Wat ga je doen?
 
@@ -14,25 +14,27 @@ Hieronder volgen een paar praktische definities.
 Het is niet de bedoeling dat je deze definities uit je hoofd leert.
 
 ### Data
-
 De Nederlandstalige versie over [data](https://nl.wikipedia.org/wiki/Gegeven) vormt een leuke, korte samenvatting.
 
 ### Data verzamelen
-Het verzamelen van data is een van de mogelijke onderwerpen waar een Data Engineer mee te maken krijgt.
+Het verzamelen van data is een van de mogelijke onderwerpen waar een data engineer mee te maken krijgt.
 Denk aan termen zoals het *scrapen* of extraheren van data.
 
 ### Data opslag en beheer
 Verzamelde gegevens worden opgeslagen voor verdere verwerking.
-Het inrichten, uitpluizen, ontsluiten en verbeteren van data (opslag) past helemaal in het straatje van de Data Engineer.
+Het inrichten, uitpluizen, ontsluiten en verbeteren van data (opslag) past helemaal in het straatje van de data engineer.
 Denk hier ook aan het inrichten van backups.
 
 ### Data verwerken
 Aan het enkel opslaan van gegevens heeft over het algemeen niemand iets.
-Om uiteindelijk bij kennis uit te komen zal er waarschijnlijk iets moeten gebeuren met de opgeslagen gegevens.
-Dat iets, dat kan de Data Engineer dan weer programmeren.
+Voordat de data scientist data kan gebruiken om uiteindelijk bij kennis en wijsheid uit te komen, zal er waarschijnlijk iets moeten gebeuren met de opgeslagen gegevens.
+Daarbij kan de data engineer dan weer helpen bij het opzetten, programmeren en uitrollen.
+
+### Machine learning
+Een data scientist of data engineer past natuurlijk bij uitstek in een machine learning team. 🤖
 
 ### IT en ICT
-IT, als in Informatie Technologie, staat uiteraard centraal binnen de data engineering track.
+IT, als in Informatie Technologie, staat uiteraard centraal binnen de Data Engineer/Data Scientist track.
 Met name de onderwerpen databases en programming.
 Verdere aandacht gaat naar basiskennis betreffende networking en security.
 
@@ -44,7 +46,7 @@ Ga verder met onze [uitdagingen](/uitdagingen).
 
 ### Vragen, om te beantwoorden
 
-- Welk(e) (soort) bedrijven en organisaties er zijn actief binnen het data engineering werkveld?
+- Welk(e) (soort) bedrijven en organisaties er zijn actief binnen het data engineering/data science werkveld?
 - Kijk eens naar beschikbare vactures bij de bedrijven en organisaties van het vorige punt. Welke kwalificaties worden vereist per vacatuure? 
 - Kun jij decimaal tellen? Kun je dit ook in binair of hexadecimaal?
 - Ben jij bekend met tijdzones? Hebben alle tijdzones wintertijd?

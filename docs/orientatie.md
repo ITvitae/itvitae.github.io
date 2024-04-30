@@ -64,6 +64,6 @@ Ten slotte hopen we dat de stof je ook echt prikkelt; merk je dat je je niet mee
 Verdere informatie voor toekomstige deelnemers van de tracks:
 
 - [Cyber Security Specialist](/orientatie/cyber)
-- [Data Engineer](/orientatie/data)
+- [Data Engineer/Data Scientist](/orientatie/data)
 
 

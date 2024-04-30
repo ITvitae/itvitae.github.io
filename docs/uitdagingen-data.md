@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Oriëntatie Uitdagingen - Data Engineer
+title: Oriëntatie Uitdagingen - Data Engineer/Data Scientist
 permalink: /uitdagingen/data/
 ---
 
-# ITvitae Oriëntatie Uitdagingen - Data Engineer
+# ITvitae Oriëntatie Uitdagingen - Data Engineer/Data Scientist
 
 ## Networking
 
