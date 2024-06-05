@@ -5,7 +5,7 @@ title: 🏠 itvitae.github.io
 
 ## Voor toekomstige deelnemers
 
-Onze [oriëntatie](/orientatie) documenten.  
+Onze [oriëntatie documenten](/orientatie).  
 Onze [oriëntatie FAQ](/orientatie/faq).  
 
 ## Voor deelnemers

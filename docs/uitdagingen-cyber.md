@@ -125,7 +125,7 @@ Scores lopen van 0 tot 1000.
 Je dient een sore te halen van 700 of hoger om een examen te halen.
 Zorg er voor dat velden met scores onder de 700 rood worden (wanneer je er een waarde in tikt).
 
-### Gevanceerd: MongoDB
+### Geavanceerd: MongoDB
 
 Speel eens met MongoDB.
 De community versie vind je hier: https://www.mongodb.com/try/download/community
@@ -141,13 +141,13 @@ Daarnaast is kennis van HTML praktisch tijdens (web-) development, aanvallen, ve
 De bekende website w3schools.com biedt een enorme, gratis, cursus HTML (en vrienden).
 Je kunt hier meteen beginnen: https://www.w3schools.com/html/default.asp
 
-### Gevanceerd: Probeer Python
+### Geavanceerd: Probeer Python
 
 Wil je al snuffelen aan Python?
 Codecademy biedt een beginnerscursus Python3 aan.
 Deze kun je [hier](https://www.codecademy.com/learn/learn-python-3) vinden.
 
-### Gevanceerd: Git good!
+### Geavanceerd: Git good!
 
 Als je nog niet of niet goed met Git werkt dan is dit natuurlijk het moment om nog eens een verdiepende cursus er bij te pakken.
 
@@ -192,7 +192,7 @@ Wanneer je anderen er op wijst dat ze hun computer beter kunnen vergrendelen dan
 Wees nooit onaardig, hooghartig of belerend.
 Wees vriendelijke, begripvol ("kan iedereen gebeuren", "daar moest ik ook aan wennen") en behulpzaam.
 
-### Intermediate/Gevanceerd: leer van andere hackers
+### Intermediate/Geavanceerd: leer van andere hackers
 
 In het onderdeel Verdieping vind je een lijst van bruikbare YouTube kanalen.
 Hierin linken we ook naar de kanalen van de DEFCON en chaos computer club conferenties.

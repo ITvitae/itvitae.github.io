@@ -48,7 +48,7 @@ Jij bent handig met computers.
 Nieuwe software uitproberen is voor jou geen probleem, ongeacht het operating systeem.
 Weet je iets niet? Dan Google jij het gewoon en dan kom je er wel uit!
 
-#### Gevanceerd
+#### Geavanceerd
 
 Jij bent bekend met alle ins en outs betreffende computers.
 Jij hebt meer dan eens een bare-metal Linux installatie uitgevoerd, je spreekt vloeiend Bash, SQL en het OSI-model ken jij gewoon uit je hoofd.

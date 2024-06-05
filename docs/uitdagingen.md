@@ -142,7 +142,7 @@ Zie bovenstaande uitdaging.
 - Download een Debian ISO van de Debian website.
 - Maak een nieuwe VM aan en doe hetzelfde als in bovenstaande uitdaging.
 
-### Gevanceerd: Probeer Vim
+### Geavanceerd: Probeer Vim
 
 Kwestie van Vim met je package manager installeren en `vimtutor` uitvoeren.
 Daarna lees je simpelweg wat er staat en volgt de instructies in het document.
