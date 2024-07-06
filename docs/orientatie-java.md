@@ -149,7 +149,7 @@ Dat tweede pakket is een gezipte file met voorbeeldcode. Het handigste is die te
 (https://github.com/EWLameijer/CodingExerciseAnalyzer/releases/tag/1.0.5) en de jar-file ergens in een aparte folder te zetten. De “exercises"-folder moet een subdirectory worden, zoals hier
 beneden:
 
-![directory-structuur codingexercise-programma](https://github.com/ITvitae/itvitae.github.io/tree/main/docs/assets/images/java_codingexercises_screenshot1.jpg)
+![directory-structuur codingexercise-programma]({{site.baseurl}}/docs/assets/images/java_codingexercises_screenshot1.jpg)
 
 
 Door te dubbelklikken op ‘CodingExerciseAnalyzer.main’ of naar de command-prompt te gaan en `java -jar CodingExerciseAnalyzer.main.jar’ in te typen open je een overzichtsprogramma. Dat ziet eruit als volgt:
