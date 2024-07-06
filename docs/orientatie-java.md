@@ -154,11 +154,12 @@ beneden:
 
 Door te dubbelklikken op ‘CodingExerciseAnalyzer.main’ of naar de command-prompt te gaan en `java -jar CodingExerciseAnalyzer.main.jar’ in te typen open je een overzichtsprogramma. Dat ziet eruit als volgt:
 
+![home screen coding exerciser](/docs/assets/images/coding-exerciser-2.jpg)
 
 
 Aan de linkerkant staat een nummer (het aantal regels van een mogelijke oplossing). Een vuistregel voor een oefening is dat je twee keer zoveel minuten neemt als het aantal regels. Bij de eerste opgave, 5 regels, zet je dus je mobiel of keukenwekker op 10 minuten. Je opent IntelliJ, en dubbelklikt op de rij, dan krijg je een beschrijving te zien, zoals hieronder.
 
-
+![opgave coding exerciser](/docs/assets/images/coding-exerciser-3.jpg)
 
 
 Dan ga je in IntelliJ aan de slag om het probleem op te lossen. Als je klaar bent (of de tijd om is, zelfs als je dan nog niet klaar bent), klik je op “Show a Solution” en check je hoe je het (ook) had kunnen oplossen. Jouw oplossing hoeft zeker niet hetzelfde te zijn als de gegeven oplossing, zolang hij maar werkt, maar het bestuderen van (ook) andermans oplossingen helpt je een soort catalogus van programmeerpatronen in je hersenen op te slaan die je later bij grotere en ingewikkeldere taken kunt hergebruiken.
