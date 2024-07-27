@@ -108,7 +108,7 @@ private static boolean isPalindrome(String s) {
 
 Dan zou je een beschrijving kunnen maken als: “Oefening 12: maak een functie die bepaalt of een woord een palindroom is [met for-loop] ”. Als je op een andere dag die beschrijving leest, kan je in een nieuw bestand zo'n methode opnieuw aanmaken. Dat mag uiteraard ook een betere methode zijn, als
 
-~~~
+<pre><code>
 private static boolean isPalindrome(String sentence) {
     int sentenceLength = sentence.length();
     for (int i = 0; i < sentenceLength / 2; i++) {
@@ -116,7 +116,7 @@ private static boolean isPalindrome(String sentence) {
     }
     return true;
 }
-~~~
+</code></pre>
 
 W3schools (https://www.w3schools.com/java/default.asp) en andere tutorials hebben vaak ook voorbeeldcode voor elk construct. Als je dus for-loops wilt oefenen, kun je ook een paar voorbeelden van for-loops in W3schools bestuderen en dan omzetten in een oefening voor jezelf!
 
