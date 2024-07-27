@@ -94,25 +94,29 @@ en pas dan wordt rekenen gemakkelijk.
 
 Hoe oefen je de oude stof opnieuw? De simpelste methode is de relevante andere oefeningen die de techniek gebruiken nòg eens te maken, liefst zonder naar het oude voorbeeld te kijken. Het kan ook helpen ergens in een tekstbestand aantekeningen te maken over bepaalde voorbeelden in het boek
 of wat voor soort cursus je ook volgt. Als een boek bijvoorbeeld een stukje code heeft als
-``` 
+
+<pre>
+<code> 
 private static boolean isPalindrome(String s) {
- for (int i = 0; i < s.length(); i++) {
- if (s.charAt(i) != s.charAt(s.length() - i - 1)) return false;
- }
- return true;
+    for (int i = 0; i < s.length(); i++) {
+        if (s.charAt(i) != s.charAt(s.length() - i - 1)) return false;
+    }
+    return true;
 }
-```
+</code>
+</pre>
+
 Dan zou je een beschrijving kunnen maken als: “Oefening 12: maak een functie die bepaalt of een woord een palindroom is [met for-loop] ”. Als je op een andere dag die beschrijving leest, kan je in een nieuw bestand zo'n methode opnieuw aanmaken. Dat mag uiteraard ook een betere methode zijn, als
-```
+
+~~~
 private static boolean isPalindrome(String sentence) {
- int sentenceLength = sentence.length();
- for (int i = 0; i < sentenceLength / 2; i++) {
- if (sentence.charAt(i) != sentence.charAt(sentenceLength - i - 1)) return
-false;
- }
- return true;
+    int sentenceLength = sentence.length();
+    for (int i = 0; i < sentenceLength / 2; i++) {
+        if (sentence.charAt(i) != sentence.charAt(sentenceLength - i - 1)) return false;
+    }
+    return true;
 }
-```
+~~~
 
 W3schools (https://www.w3schools.com/java/default.asp) en andere tutorials hebben vaak ook voorbeeldcode voor elk construct. Als je dus for-loops wilt oefenen, kun je ook een paar voorbeelden van for-loops in W3schools bestuderen en dan omzetten in een oefening voor jezelf!
 
@@ -149,12 +153,15 @@ Dat tweede pakket is een gezipte file met voorbeeldcode. Het handigste is die te
 (https://github.com/EWLameijer/CodingExerciseAnalyzer/releases/tag/1.0.5) en de jar-file ergens in een aparte folder te zetten. De “exercises"-folder moet een subdirectory worden, zoals hier
 beneden:
 
+<img src="/assets/images/java_codingexercises_screenshot1.jpg" width=400 height=175 />
 
 Door te dubbelklikken op ‘CodingExerciseAnalyzer.main’ of naar de command-prompt te gaan en `java -jar CodingExerciseAnalyzer.main.jar’ in te typen open je een overzichtsprogramma. Dat ziet eruit als volgt:
 
+<img src="/assets/images/coding-exerciser2.jpg" width=600 height=600 />
 
 Aan de linkerkant staat een nummer (het aantal regels van een mogelijke oplossing). Een vuistregel voor een oefening is dat je twee keer zoveel minuten neemt als het aantal regels. Bij de eerste opgave, 5 regels, zet je dus je mobiel of keukenwekker op 10 minuten. Je opent IntelliJ, en dubbelklikt op de rij, dan krijg je een beschrijving te zien, zoals hieronder.
 
+<img src="/assets/images/coding-exerciser-3.jpg" width=600 height=600 />
 
 Dan ga je in IntelliJ aan de slag om het probleem op te lossen. Als je klaar bent (of de tijd om is, zelfs als je dan nog niet klaar bent), klik je op “Show a Solution” en check je hoe je het (ook) had kunnen oplossen. Jouw oplossing hoeft zeker niet hetzelfde te zijn als de gegeven oplossing, zolang hij maar werkt, maar het bestuderen van (ook) andermans oplossingen helpt je een soort catalogus van programmeerpatronen in je hersenen op te slaan die je later bij grotere en ingewikkeldere taken kunt hergebruiken.
 

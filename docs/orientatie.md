@@ -65,5 +65,5 @@ Verdere informatie voor toekomstige deelnemers van de tracks:
 
 - [Cyber Security Specialist](/orientatie/cyber)
 - [Data Engineer/Data Scientist](/orientatie/data)
-
+- [Java Developer](/orientatie/java)
 
