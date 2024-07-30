@@ -26,9 +26,8 @@ Hierbij gaat het om kennis en ervaring op te doen met Java programmeren via het 
 ## Aan de slag
 
 ### IntelliJ downloaden
-Gratis versie van IntelliJ IDEA (kies de Community Edition, rechts) Er zijn tabjes voor Windows,
-macOS en Linux – selecteer daar wat je nodig hebt voor jouw computer.
-https://www.jetbrains.com/idea/download/
+Gratis versie van IntelliJ IDEA (kies de Community Edition, vind die door naar beneden te scrollen) 
+[IntelliJ IDEA (IDE)](https://www.jetbrains.com/idea/download/)
 
 ### Mooi begin
 Om je op weg te helpen om je eerste programma te maken moet je uiteraard weten wat je in IntelliJ in moet typen. Nu zijn er heel veel opties om Java te leren – boeken, videos, en zelfs online cursussen. Nu is onze ervaring dat er niet één methode is die voor iedereen goed werkt. Hieronder onze
@@ -38,32 +37,31 @@ aanbevelingen; mocht de eerste optie voor jou niet goed werken, overweeg een van
 
 Mocht je ook maar enigszins twijfelen tussen de opties, dan bevelen we een boek aan. Dit is zowel omdat je in een boek makkelijker/sneller net gemiste informatie kunt terugvinden dan in een video, als omdat het makkelijker is (en beter als oefening!) een boek naast je laptop te leggen en code over te typen dan code van het ene naar het andere window te copypasten. Maar boeken hebben nog meer voordelen: je kunt ze bijna overal naartoe meenemen en zelfs vlak voor het slapen nog lezen zonder je nachtrust te verstoren (kennis zinkt waarschijnlijk dan ook extra goed in). Voor de meeste mensen is het beste boek waarschijnlijk Murach's Java Programming, 6th edition : het heeft oefeningen en extreem veel voorbeelden van hoe Java-constructies worden toegepast.
 
-Als je Murach echt te droog vindt kan je òf Head First Java 3rd edition gebruiken (dat lijkt voor de meeste mensen te speels/chaotisch, maar er zijn mensen die het leuker vinden om uit te leren), òf (als je een laag budget hebt en iets wilt dat legaal gratis is, in elk geval als ebook) How to think like a Computer Scientist (https://greenteapress.com/thinkapjava/thinkapjava.pdf)
+Als je Murach echt te droog vindt kan je òf Head First Java 3rd edition gebruiken (dat lijkt voor de meeste mensen te speels/chaotisch, maar er zijn mensen die het leuker vinden om uit te leren), òf (als je een laag budget hebt en iets wilt dat legaal gratis is, in elk geval als ebook) [Think Java](https://greenteapress.com/thinkapjava/thinkapjava.pdf).
 
 Dat gezegd hebbende, als je je het kan veroorloven raden we Murach aan. De prijs ervan (zo'n 60 euro) is goede waarde voor de tientallen uren die het aan oefeningen en uitleg bevat.
 
 #### Tweede keus: een ‘tekst'-cursus
-Als je echt een hekel hebt aan fysieke boeken of erbij in slaap valt, raden we de MOOC Java van de universiteit van Helsinki aan (https://java-programming.mooc.fi/). Net als bij een boek kan je makkelijk de tekst teruglezen, en ook de MOOC heeft veel oefeningen. Wel mis je uiteraard de voordelen in draagbaarheid en het gratis 'tweede scherm’ van een boek.
+Als je echt een hekel hebt aan fysieke boeken of erbij in slaap valt, raden we de [MOOC Java van de universiteit van Helsinki](https://java-programming.mooc.fi/) aan. Net als bij een boek kan je makkelijk de tekst teruglezen, en ook de MOOC heeft veel oefeningen. Wel mis je uiteraard de voordelen in draagbaarheid en het gratis 'tweede scherm’ van een boek.
 
 #### Derde keus: een videocursus
 Video's zijn zelden ideaal om van te leren; niet alleen kost het terugspoelen naar het juiste moment vaak veel tijd en moet je vaak speciale voorzieningen treffen (zoals oortjes meenemen) om ze buitenshuis te bekijken, ook hebben ze meestal geen oefeningen. Maar als andere methoden niet voor je werken, dan kan je alsnog videocursussen proberen.
 
-Van Java zijn er veel videocursussen. Mogelijk moet je 'shoppen’ (een kwartier kijken hoe een uitlegmethode of accent je bevalt), dan de volgende Java-cursus proberen te googelen.Een paar die je kunt overwegen (uit het overweldigende aanbod) zijn de volgende.
+Van Java zijn er veel videocursussen. Mogelijk moet je 'shoppen’ (een kwartier kijken hoe een uitlegmethode of accent je bevalt), dan de volgende Java-cursus proberen te googelen. Een paar die je kunt overwegen (uit het overweldigende aanbod) zijn de volgende.
 
 Praktisch omdat deze auteur ook IntelliJ gebruikt:
-https://www.youtube.com/watch?v=grEKMHGYyns (FreeCodeCamp, full tutorial, Marcus Biel, 9 uur)
+[FreeCodeCamp, 9 uur, Marcus Biel](https://www.youtube.com/watch?v=grEKMHGYyns) 
 
-Aanbevolen door anderen: The New Boston (Java Beginners, tot video 50)
-https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28 Is soms een beetje vervelend omdat deze cursus Eclipse gebruikt, en je dus andere tab-afstanden krijgt – maar dat kan je oplossen door oftewel zelf Eclipse te downloaden – IntelliJ leer je wel gebruiken tijdens de opleiding- oftewel spaties te gebruiken in je code in plaats van tabs. De besproken Javaversie is wat oud, maar de basis die je leert blijft gewoon geldig!
+Aanbevolen door anderen: [The New Boston (Java Beginners, tot video 50)](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28) Is soms een beetje vervelend omdat deze cursus Eclipse gebruikt, en je dus andere tab-afstanden krijgt – maar dat kan je oplossen door oftewel zelf Eclipse te downloaden – IntelliJ leer je wel gebruiken tijdens de opleiding- oftewel spaties te gebruiken in je code in plaats van tabs. De besproken Javaversie is wat oud, maar de basis die je leert blijft gewoon geldig!
 
-Eventueel https://www.youtube.com/watch?v=A74TOX803D0 (4u, wel weer een andere editor).
+Eventueel [Java Programming for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=A74TOX803D0) (4u, wel weer een andere editor).
 
 In het algemeen: Biel is denk ik niet slecht, maar als hij je niet bevalt: bekijk de andere opties, en zoek desnoods op internet "Java youtube tutorial". Na wat gezoek (en het downloaden van de gebruikte editor) zal je altijd wel iemand vinden die redelijk naar tevredenheid dingen uitlegt. Maar zeker bij video’s moet je opletten dat je ook zelf gaat oefenen! Meer daarover in de volgende secties.
 
 _Denk eraan, je gaat Java leren door het doen; niet uitgebreid op een traditionele schoolse manier eerst alles leren en dan pas doen. Deze methode heet “Problem Based Learning”._
 
 ### GitHub
-Plaats je opdrachten op GitHub. Dit is een heel belangrijke plek voor je portfolio als programmeur maar ook voor ITvitae wanneer je deelneemt aan een traject. Tijdens de Java-opleiding zet je je oefeningen ook op GitHub, zodat je je code makkelijk met de docenten en andere deelnemers kan bespreken, zelfs als één of meerdere personen door omstandigheden alleen online aanwezig zijn. Wanneer je nog geen (gratis) account hebt kijk dan op https://github.com/join?source=login .
+Plaats je opdrachten op GitHub. Dit is een heel belangrijke plek voor je portfolio als programmeur maar ook voor ITvitae wanneer je deelneemt aan een traject. Tijdens de Java-opleiding zet je je oefeningen ook op GitHub, zodat je je code makkelijk met de docenten en andere deelnemers kan bespreken, zelfs als één of meerdere personen door omstandigheden alleen online aanwezig zijn. Wanneer je nog geen (gratis) account hebt kijk dan op [GitHub](https://github.com/join?source=login) zelf.
 
 ## Opdrachten
 Maak bij het programmeren gerust gebruik van voorbeelden en hulpmiddelen die het Internet biedt. Belangrijk hierbij is dat je wel snapt wat je doet en niet zomaar klakkeloos code kopieert zonder te begrijpen wat het precies doet. Het leren wordt hierdoor een neveneffect van het verkennen. Als
@@ -87,7 +85,7 @@ Onderaan dit VPP staan ook oefeningen; deze zijn vooral voor degenen die videocu
 Het lijkt er in onze ervaring namelijk op dat de oefeningen in zelfs een goed boek of goede cursus lang niet altijd genoeg zijn om op een goed niveau te leren programmeren. Een grove vuistregel om in de gaten te houden: als je tijdens de oefeningen meer dan 15 regels code per uur schrijft (liefst
 meer, bijvoorbeeld 20 or 30 regels per uur is beter) zijn de oefeningen waarschijnlijk een goede uitdaging. Bij meer dan 60 regels per uur zijn ze waarschijnlijk te makkelijk voor je.
 
-Een voorbeeld van hoe je kan bijhouden wat je programmeersnelheid bij verschillende oefeningen is: https://github.com/EWLameijer/JavaExercisesWithJournal/blob/master/journal.txt
+[Een voorbeeld van hoe je kan bijhouden wat je programmeersnelheid bij verschillende oefeningen is](https://github.com/EWLameijer/JavaExercisesWithJournal/blob/master/journal.txt)
 
 Als de oefeningen (nog) te moeilijk zijn is het verstandig de oude stof nog eens te oefenen. Dat is immers hoe je normaal dingen leert beheersen-je leert niet vlot rekenen door één keer te herhalen dat 2 x 2 4 is, je herhaalt het tientallen keren op verschillende dagen en zelfs in verschillende weken,
 en pas dan wordt rekenen gemakkelijk.
@@ -118,14 +116,14 @@ private static boolean isPalindrome(String sentence) {
 }
 </code></pre>
 
-W3schools (https://www.w3schools.com/java/default.asp) en andere tutorials hebben vaak ook voorbeeldcode voor elk construct. Als je dus for-loops wilt oefenen, kun je ook een paar voorbeelden van for-loops in W3schools bestuderen en dan omzetten in een oefening voor jezelf!
+[W3schools](https://www.w3schools.com/java/default.asp) en andere tutorials hebben vaak ook voorbeeldcode voor elk construct. Als je dus for-loops wilt oefenen, kun je ook een paar voorbeelden van for-loops in W3schools bestuderen en dan omzetten in een oefening voor jezelf!
 
 Voeg dan eventueel de tijd die het je kostte de oefening te maken toe aan je aantekeningen; als het goed is zul je zien dat het de volgende keren steeds sneller gaat!
 
 Het belangrijkste is dat de instructies zijn gevolgd; als de nieuwe methode verder wat beter of wat slechter is: dat maakt niet veel uit. Het gaat om het oefenen.
 
-Zodra je de basistechnieken kent (for-loops, while-loops, de + - / * % operatoren, if-else statements, methoden) en wat vaardigheid hebt in het zoeken in de officiële Java-API (momenteel https://docs.oracle.com/en/java/javase/21/docs/api/ ) naar de methoden van bijvoorbeeld String of
-Integer of Math of Random, kan je ook makkelijke opgaven proberen van bijvoorbeeld Codewars (https://www.codewars.com/dashboard) of kattis (https://open.kattis.com/).
+Zodra je de basistechnieken kent (for-loops, while-loops, de + - / * % operatoren, if-else statements, methoden) en wat vaardigheid hebt in het zoeken in de officiële Java-API (momenteel [de documentatie van Java 21](https://docs.oracle.com/en/java/javase/21/docs/api/)) naar de methoden van bijvoorbeeld String of
+Integer of Math of Random, kan je ook makkelijke opgaven proberen van bijvoorbeeld [Codewars](https://www.codewars.com/dashboard) of [Kattis](https://open.kattis.com/).
 
 
 ## Hoe weet je wanneer je voldoende weet/kan?
@@ -149,8 +147,7 @@ Op dat moment heb je verschillende keuzes. Je kunt oude opgaven van de Player’
 
 Om deze redenen sturen we ook een tweede pakket, waar opgaven en gecheckte antwoorden in staan, en je ook relatief makkelijk (via een zoekbalk) onderwerpen kan selecteren waar je nog moeite mee hebt, zoals bijvoorbeeld for-loops.
 
-Dat tweede pakket is een gezipte file met voorbeeldcode. Het handigste is die te gebruiken door de bijbehorende oefensoftware te downloaden
-(https://github.com/EWLameijer/CodingExerciseAnalyzer/releases/tag/1.0.5) en de jar-file ergens in een aparte folder te zetten. De “exercises"-folder moet een subdirectory worden, zoals hier
+Dat tweede pakket is een gezipte file met voorbeeldcode. Het handigste is die te gebruiken door de bijbehorende [oefensoftware](https://github.com/EWLameijer/CodingExerciseAnalyzer/releases/tag/1.0.5) te downloaden en de jar-file ergens in een aparte folder te zetten. De “exercises"-folder moet een subdirectory worden, zoals hier
 beneden:
 
 <img src="/assets/images/java_codingexercises_screenshot1.jpg" width=400 height=175 />
