@@ -14,7 +14,7 @@ hoever je bent ten opzichte van het ideale instroomniveau. Op basis daarvan kunn
 De oefeningen uit dit VPP maken kost tijd, die je moet vrijmaken naast je huidige baan, andere verantwoordelijkheden, vrienden of hobby’s. Uit onze ervaring blijkt echter dat bij mensen die zonder enige programmeerervaring aan de opleiding beginnen, de kans op uitval groot is, en zelfs als
 ze niet uitvallen, de meesten dagen extra moeten komen oefenen en/of maanden langer nodig hebben om bemiddeld te worden naar een stage of werk. Iedere vijf minuten die je aan oefeningen uit het VPP kan besteden vergroot je kans de opleiding af te ronden en versnelt het vinden van een leuke baan.
 
-Qua tijdsbesteding: probeer te beginnen met een kwartier per dag en dat op te bouwen tot minstens 2x een half uur per dag, 4 tot 5 dagen per week. Als je het aankan mag meer. Belangrijk is wel dat je het grootste deel (zeg minstens 2/3) van die tijd besteedt aan programmeren, of dat nou code intypen en uitproberen is of het lezen en proberen te begrijpen van voorbeeldcode uit (e-)boeken of internet. Desnoods type je code over en experimenteer je ermee door commando's te veranderen en kijken wat er dan gebeurt. Als je dat uur per dag alleen maar naar video’s kijkt zal je weinig leren – programmeren is iets dat je net als zwemmen of zingen alleen maar goed leert door het te doen, niet door erover te lezen of horen.
+Qua tijdsbesteding: probeer te beginnen met een kwartier per dag en dat op te bouwen tot minstens 2x een half uur per dag, 4 tot 5 dagen per week. Als je het aankan mag meer. Belangrijk is wel dat je het grootste deel (zeg minstens 2/3) van die tijd besteedt aan programmeren, of dat nou code intypen en uitproberen is of het lezen en proberen te begrijpen van voorbeeldcode uit (e-)boeken of internet. Desnoods type je code over en experimenteer je ermee door commando's te veranderen en kijken wat er dan gebeurt. Als je dat uur per dag alleen maar naar video’s kijkt, zal je weinig leren – programmeren is iets dat je net als zwemmen of zingen alleen maar goed leert door het te doen, niet door erover te lezen of horen.
 
 Dus tenzij je de programmeertest al met goed gevolg hebt afgerond, verwachten we dat je een zo groot mogelijk deel van de opdrachten uit dit pakket maakt en op een voor ons bereikbare plaats op GitHub zet. Nu is alle begin moeilijk, ook met programmeren, dus als je vastloopt kan je altijd contact
 met ons opnemen, één van onze docenten kan je met tips en voorbeelden helpen als je vastloopt.
@@ -30,16 +30,16 @@ Gratis versie van IntelliJ IDEA (kies de Community Edition, vind die door naar b
 [IntelliJ IDEA (IDE)](https://www.jetbrains.com/idea/download/)
 
 ### Mooi begin
-Om je op weg te helpen om je eerste programma te maken moet je uiteraard weten wat je in IntelliJ in moet typen. Nu zijn er heel veel opties om Java te leren – boeken, videos, en zelfs online cursussen. Nu is onze ervaring dat er niet één methode is die voor iedereen goed werkt. Hieronder onze
+Om je op weg te helpen om je eerste programma te maken moet je uiteraard weten wat je in IntelliJ in moet typen. Nu zijn er heel veel opties om Java te leren – boeken, video's, en zelfs online cursussen. Nu is onze ervaring dat er niet één methode is die voor iedereen goed werkt. Hieronder onze
 aanbevelingen; mocht de eerste optie voor jou niet goed werken, overweeg een van de andere opties.
 
 #### Meestal beste optie: fysiek boek (Murach aanbevolen)
 
 Mocht je ook maar enigszins twijfelen tussen de opties, dan bevelen we een boek aan. Dit is zowel omdat je in een boek makkelijker/sneller net gemiste informatie kunt terugvinden dan in een video, als omdat het makkelijker is (en beter als oefening!) een boek naast je laptop te leggen en code over te typen dan code van het ene naar het andere window te copypasten. Maar boeken hebben nog meer voordelen: je kunt ze bijna overal naartoe meenemen en zelfs vlak voor het slapen nog lezen zonder je nachtrust te verstoren (kennis zinkt waarschijnlijk dan ook extra goed in). Voor de meeste mensen is het beste boek waarschijnlijk Murach's Java Programming, 6th edition : het heeft oefeningen en extreem veel voorbeelden van hoe Java-constructies worden toegepast.
 
-Als je Murach echt te droog vindt kan je òf Head First Java 3rd edition gebruiken (dat lijkt voor de meeste mensen te speels/chaotisch, maar er zijn mensen die het leuker vinden om uit te leren), òf (als je een laag budget hebt en iets wilt dat legaal gratis is, in elk geval als ebook) [Think Java](https://greenteapress.com/thinkapjava/thinkapjava.pdf).
+Als je Murach echt te droog vindt kan je òf Head First Java 3rd edition gebruiken (dat lijkt voor de meeste mensen te speels/chaotisch, maar er zijn mensen die het leuker vinden om uit te leren), òf (als je een laag budget hebt en iets wilt dat legaal gratis is, in elk geval als e-boek) [Think Java](https://greenteapress.com/thinkapjava/thinkapjava.pdf).
 
-Dat gezegd hebbende, als je je het kan veroorloven raden we Murach aan. De prijs ervan (zo'n 60 euro) is goede waarde voor de tientallen uren die het aan oefeningen en uitleg bevat.
+Dat gezegd hebbende, als je je het kan veroorloven, raden we Murach aan. De prijs ervan (zo'n 60 euro) is goede waarde voor de tientallen uren die het aan oefeningen en uitleg bevat.
 
 #### Tweede keus: een ‘tekst'-cursus
 Als je echt een hekel hebt aan fysieke boeken of erbij in slaap valt, raden we de [MOOC Java van de universiteit van Helsinki](https://java-programming.mooc.fi/) aan. Net als bij een boek kan je makkelijk de tekst teruglezen, en ook de MOOC heeft veel oefeningen. Wel mis je uiteraard de voordelen in draagbaarheid en het gratis 'tweede scherm’ van een boek.
@@ -52,16 +52,16 @@ Van Java zijn er veel videocursussen. Mogelijk moet je 'shoppen’ (een kwartier
 Praktisch omdat deze auteur ook IntelliJ gebruikt:
 [FreeCodeCamp, 9 uur, Marcus Biel](https://www.youtube.com/watch?v=grEKMHGYyns) 
 
-Aanbevolen door anderen: [The New Boston (Java Beginners, tot video 50)](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28) Is soms een beetje vervelend omdat deze cursus Eclipse gebruikt, en je dus andere tab-afstanden krijgt – maar dat kan je oplossen door oftewel zelf Eclipse te downloaden – IntelliJ leer je wel gebruiken tijdens de opleiding- oftewel spaties te gebruiken in je code in plaats van tabs. De besproken Javaversie is wat oud, maar de basis die je leert blijft gewoon geldig!
+Aanbevolen door anderen: [The New Boston (Java Beginners, tot video 50)](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28) Is soms een beetje vervelend omdat deze cursus Eclipse gebruikt, en je dus andere tab-afstanden krijgt – maar dat kan je oplossen door oftewel zelf Eclipse te downloaden – IntelliJ leer je wel gebruiken tijdens de opleiding- oftewel spaties te gebruiken in je code in plaats van tabs. De besproken Java-versie is wat oud, maar de basis die je leert blijft gewoon geldig!
 
-Eventueel [Java Programming for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=A74TOX803D0) (4u, wel weer een andere editor).
+Eventueel [Java Programming for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=A74TOX803D0) (4 uur, wel weer een andere editor).
 
 In het algemeen: Biel is denk ik niet slecht, maar als hij je niet bevalt: bekijk de andere opties, en zoek desnoods op internet "Java youtube tutorial". Na wat gezoek (en het downloaden van de gebruikte editor) zal je altijd wel iemand vinden die redelijk naar tevredenheid dingen uitlegt. Maar zeker bij video’s moet je opletten dat je ook zelf gaat oefenen! Meer daarover in de volgende secties.
 
 _Denk eraan, je gaat Java leren door het doen; niet uitgebreid op een traditionele schoolse manier eerst alles leren en dan pas doen. Deze methode heet “Problem Based Learning”._
 
 ### GitHub
-Plaats je opdrachten op GitHub. Dit is een heel belangrijke plek voor je portfolio als programmeur maar ook voor ITvitae wanneer je deelneemt aan een traject. Tijdens de Java-opleiding zet je je oefeningen ook op GitHub, zodat je je code makkelijk met de docenten en andere deelnemers kan bespreken, zelfs als één of meerdere personen door omstandigheden alleen online aanwezig zijn. Wanneer je nog geen (gratis) account hebt kijk dan op [GitHub](https://github.com/join?source=login) zelf.
+Plaats je opdrachten op GitHub. Dit is een heel belangrijke plek voor je portfolio als programmeur, maar ook voor ITvitae wanneer je deelneemt aan een traject. Tijdens de Java-opleiding zet je je oefeningen ook op GitHub, zodat je je code makkelijk met de docenten en andere deelnemers kan bespreken, zelfs als één of meerdere personen door omstandigheden alleen online aanwezig zijn. Wanneer je nog geen (gratis) account hebt kijk dan op [GitHub](https://github.com/join?source=login) zelf.
 
 ## Opdrachten
 Maak bij het programmeren gerust gebruik van voorbeelden en hulpmiddelen die het Internet biedt. Belangrijk hierbij is dat je wel snapt wat je doet en niet zomaar klakkeloos code kopieert zonder te begrijpen wat het precies doet. Het leren wordt hierdoor een neveneffect van het verkennen. Als
@@ -71,7 +71,7 @@ vuistregel: je mag een blok code van het internet (of ChatGPT) kopiëren, maar
 variabele kon declareren; hij had dus niets geleerd van die vele uren copy-paste. Want het gaat hier immers niet om het snel afkrijgen van opdrachten (geen enkele werkgever gaat je geld betalen voor een Hello-World-programma) maar dat je iets leert van de opdracht. Vergelijk het met gewichtheffen: de waarde van gewichtheffen is niet dat werkgevers je ervoor betalen om gewichten tijdelijk hoger in de lucht te heffen, maar dat je er sterker en
 gezonder van wordt. Code kopiëren van het internet is als het iemand anders betalen om gewichten voor je te heffen: dat is verspilde moeite en geld (in elk geval voor jou!)
 
-2. Als je code kopieert moet je na het afmaken van het programma elke regel kunnen uitleggen aan een vriend/partner of slim nichtje. Als je het niet kan uitleggen, heb je het niet begrepen, en als het echt moeilijk is, vraag internet (Google, maar er zijn grote en vriendelijke Javagemeenschappen op bijvoorbeeld Discord), ChatGPT, of één van onze docenten om uitleg.
+2. Als je code kopieert moet je na het afmaken van het programma elke regel kunnen uitleggen aan een vriend/partner of slim nichtje. Als je het niet kan uitleggen, heb je het niet begrepen, en als het echt moeilijk is, vraag internet (Google, maar er zijn grote en vriendelijke Java-gemeenschappen op bijvoorbeeld Discord), ChatGPT, of één van onze docenten om uitleg.
 
 3. Zet in je agenda dat je de volgende dag de opdracht opnieuw probeert te maken – ZONDER internet. Als dat niet lukt, type het over van het oude voorbeeld. Herhaal dit elke dag totdat je het programma zonder hulp van internet of van je oude programma kunt schrijven. Ja, dat duurt lang, maar actief herhalen is één van de meest effectieve leermethodes, en elk uur dat
 je daaraan besteedt zal zich dubbel en dwars terugbetalen in het sneller vinden van een leuke baan!
@@ -87,7 +87,7 @@ meer, bijvoorbeeld 20 or 30 regels per uur is beter) zijn de oefeningen waarschi
 
 [Een voorbeeld van hoe je kan bijhouden wat je programmeersnelheid bij verschillende oefeningen is](https://github.com/EWLameijer/JavaExercisesWithJournal/blob/master/journal.txt)
 
-Als de oefeningen (nog) te moeilijk zijn is het verstandig de oude stof nog eens te oefenen. Dat is immers hoe je normaal dingen leert beheersen-je leert niet vlot rekenen door één keer te herhalen dat 2 x 2 4 is, je herhaalt het tientallen keren op verschillende dagen en zelfs in verschillende weken,
+Als de oefeningen (nog) te moeilijk zijn is het verstandig de oude stof nog eens te oefenen. Dat is immers hoe je normaal dingen leert beheersen - je leert niet vlot rekenen door één keer te herhalen dat 2 x 2 4 is, je herhaalt het tientallen keren op verschillende dagen en zelfs in verschillende weken,
 en pas dan wordt rekenen gemakkelijk.
 
 Hoe oefen je de oude stof opnieuw? De simpelste methode is de relevante andere oefeningen die de techniek gebruiken nòg eens te maken, liefst zonder naar het oude voorbeeld te kijken. Het kan ook helpen ergens in een tekstbestand aantekeningen te maken over bepaalde voorbeelden in het boek
@@ -133,7 +133,7 @@ Qua basiskennis zien we het liefst dat je op ‘Codewars'-niveau bent: for-loops
 
 Als het even kan: alles wat je leert over klassen en interfaces is mooi meegenomen. Zolang je jezelf niet overspannen werkt, is meer leren alleen een voordeel!
 
-Qua 'vloeiendheid’: liefst dus eenvoudige opgaven kunnen maken van Codewars of Kattis, met een tempo van meer dan 15 regels code per uur. En tenzij je al jaren programmeert is het sowieso goed elke dag wat te programmeren, elke 5 minuten aan programmeren besteed helpt met het op tijd afmaken van de opleiding en het sneller vinden van een stage en baan!
+Qua 'vloeiendheid’: liefst dus eenvoudige opgaven kunnen maken van Codewars of Kattis, met een tempo van meer dan 15 regels code per uur. En, tenzij je al jaren programmeert, is het sowieso goed elke dag wat te programmeren, elke 5 minuten aan programmeren besteed helpt met het op tijd afmaken van de opleiding en het sneller vinden van een stage en baan!
 
 ## Voorbeeldopgaven
 Bij dit pakket horen ook twee pakketten te zitten met voorbeeldopgaven.
@@ -141,7 +141,7 @@ Bij dit pakket horen ook twee pakketten te zitten met voorbeeldopgaven.
 Het eerste is een HTML-file met opgaven van 'The C# Player's Guide’ van R.B. Whitaker, vertaald naar Java en voorzien van hyperlinks naar nuttige documentatie.
 
 De eerste opgaven van de Player’s Guide zijn als het goed is niet al te moeilijk, zeker als je daarnaast een boek leest/cursus volgt en eventueel de hyperlinks met hints volgt. Maar in onze ervaring neemt de moeilijkheid van opgaven (en we vrezen dat dat voor de meeste boeken en cursussen geldt)
-sneller toe dan iemand's programmeervaardigheden normaal groeien. Op een gegeven moment kom je toch onder de 1 regel code per twee minuten, wat minder efficiënt is voor leren.
+sneller toe dan iemands programmeervaardigheden normaal groeien. Op een gegeven moment kom je toch onder de 1 regel code per twee minuten, wat minder efficiënt is voor leren.
 
 Op dat moment heb je verschillende keuzes. Je kunt oude opgaven van de Player’s Guide opnieuw proberen te maken, je kunt opgaven proberen van sites als Codewars of Kattis (al hebben die het nadeel dat als je vastzit je geen hulp krijgt hoe het wel moet).
 
