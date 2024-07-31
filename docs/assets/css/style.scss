@@ -200,25 +200,58 @@ nav {
     }
 }
 
-pre, code {
-  font-family: Consolas, "Courier New";
-  font-size: 13px;
-  border: 1px solid #e8e8e8;
-  border-radius: 3px;
-  background-color: #eef;
+//Code and friends
+pre, code, tt {
+    background-color: var(--col-text-light);
+    border: 1px solid var(--col-content-url);
+    color: var(--col-text-dark);
+}
+
+code, tt {
+    font-family: 'Source Code Pro', Hack, Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+    font-size: 95%;
+    font-weight: 400;
+    margin: 0;
+    padding: 0.15em 0.25em;
+    white-space: nowrap;
+    border-radius: 3px;
 }
 
 code {
-  padding: 1px 5px;
+    speak-as: literal-punctuation;
 }
 
 pre {
-  padding: 8px 12px;
-  overflow-x: auto;
+    font-size: inherit;
+    line-height: 1.35em;
+    margin: 1em 1px 1.5em;
+    padding: 0.3em 0.7em;
+    border-radius: 0.2em;
+    break-inside: avoid;
+    overflow: auto;
 }
 
-pre > code {
-  border:0;
-  padding-right: 0;
-  padding-left: 0;
+pre code {
+    color: inherit;
+    background-color: inherit;
+    padding: 0;
+    overflow: visible;
+    overflow-wrap: normal;
+    white-space: pre;
 }
+
+pre code, pre tt {
+    border: none !important;
+    hyphens: none !important;
+    overflow: visible !important;
+    white-space: pre-wrap !important;
+}
+
+code{white-space: pre-wrap;}
+
+h1 tt, h1 code {font-size: inherit;}
+h2 tt, h2 code {font-size: inherit;}
+h3 tt, h3 code {font-size: inherit;}
+h4 tt, h4 code {font-size: inherit;}
+h5 tt, h5 code {font-size: inherit;}
+h6 tt, h6 code {font-size: inherit;}
