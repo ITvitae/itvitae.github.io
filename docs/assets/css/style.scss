@@ -144,6 +144,14 @@ tr:nth-child(even) {
     padding: 0 1em;
 }
 
+.content img {
+    box-sizing: border-box;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 1px solid var(--col-light-gray);
+}
+
 // Nav
 nav {
     width: 100%;

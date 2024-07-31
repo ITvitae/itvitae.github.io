@@ -150,15 +150,16 @@ Om deze redenen sturen we ook een tweede pakket, waar opgaven en gecheckte antwo
 Dat tweede pakket is een gezipte file met voorbeeldcode. Het handigste is die te gebruiken door de bijbehorende [oefensoftware](https://github.com/EWLameijer/CodingExerciseAnalyzer/releases/tag/1.0.5) te downloaden en de jar-file ergens in een aparte folder te zetten. De “exercises"-folder moet een subdirectory worden, zoals hier
 beneden:
 
-<img src="/assets/images/java_codingexercises_screenshot1.jpg" width=400 height=175 />
+![java coding exercises screenshot 1](/assets/images/java_codingexercises_screenshot1.jpg)
 
 Door te dubbelklikken op ‘CodingExerciseAnalyzer.main’ of naar de command-prompt te gaan en `java -jar CodingExerciseAnalyzer.main.jar’ in te typen open je een overzichtsprogramma. Dat ziet eruit als volgt:
 
-<img src="/assets/images/coding-exerciser2.jpg" width=600 height=600 />
+![coding exerciser screenshot 2](/assets/images/coding-exerciser2.jpg)
 
 Aan de linkerkant staat een nummer (het aantal regels van een mogelijke oplossing). Een vuistregel voor een oefening is dat je twee keer zoveel minuten neemt als het aantal regels. Bij de eerste opgave, 5 regels, zet je dus je mobiel of keukenwekker op 10 minuten. Je opent IntelliJ, en dubbelklikt op de rij, dan krijg je een beschrijving te zien, zoals hieronder.
 
-<img src="/assets/images/coding-exerciser-3.jpg" width=600 height=600 />
+![coding exerciser screenshot 3](/assets/images/coding-exerciser-3.jpg)
+
 
 Dan ga je in IntelliJ aan de slag om het probleem op te lossen. Als je klaar bent (of de tijd om is, zelfs als je dan nog niet klaar bent), klik je op “Show a Solution” en check je hoe je het (ook) had kunnen oplossen. Jouw oplossing hoeft zeker niet hetzelfde te zijn als de gegeven oplossing, zolang hij maar werkt, maar het bestuderen van (ook) andermans oplossingen helpt je een soort catalogus van programmeerpatronen in je hersenen op te slaan die je later bij grotere en ingewikkeldere taken kunt hergebruiken.
 
