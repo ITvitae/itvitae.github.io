@@ -23,4 +23,13 @@
             </div>
         </div>
     </body>
+    <script>
+     /* Make images clickable to open them in a new tab */
+     let imgs = document.getElementById('page-body').getElementsByTagName('img');
+     for (let i = 0; i < imgs.length; i++) {
+         let img_element = imgs[i].parentNode.innerHTML;
+         let target = imgs[i].currentSrc;
+         imgs[i].parentNode.innerHTML = '<a href="' + target + '" target="_blank">' + img_element + '</span>';
+     }
+    </script>
 </html>
