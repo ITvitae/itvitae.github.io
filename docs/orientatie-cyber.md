@@ -53,13 +53,13 @@ Ga verder met onze [uitdagingen](/uitdagingen).
 ### Vragen, om te beantwoorden
 
 - Welk(e) (soort) bedrijven en organisaties er zijn actief binnen het cyber security werkveld?
-- Kijk eens naar beschikbare vactures bij de bedrijven en organisaties van het vorige punt. Welke kwalificaties worden vereist per vacatuure? 
+- Kijk eens naar beschikbare vactures bij de bedrijven en organisaties van het vorige punt. Welke kwalificaties worden vereist per vacatuure?
 - Wat is de rol van de volgende organisaties binnen het cyber security domein?
-  - Politie 
-  - Defensie 
-  - NCTV 
-  - Amazon 
-  - Google 
+  - Politie
+  - Defensie
+  - NCTV
+  - Amazon
+  - Google
 - Ken jij alle grote communicatie platforms al? Zoals:
   - Gmail
   - WhatsApp
