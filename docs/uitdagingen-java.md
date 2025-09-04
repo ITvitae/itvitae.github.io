@@ -31,8 +31,8 @@ Overweeg dan [IntelliJ IDEA (IDE)](https://www.jetbrains.com/idea/download/).
 
 ### Beginner: Probeer Java
 
-Wil je al snuffelen aan Python?
-Codecademy biedt een beginnerscursus Python3 aan.
+Wil je al snuffelen aan Java?
+Codecademy biedt een beginnerscursus Java aan.
 Deze kun je [hier](https://www.codecademy.com/learn/learn-java) vinden.
 
 ### Beginner: Maak een website
