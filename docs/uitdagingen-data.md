@@ -57,7 +57,7 @@ Je kunt alvast een volledig gratis cursus Linux vinden op deze link:
 
 https://training.linuxfoundation.org/training/introduction-to-linux/
 
-Kijk al eeens naar eerste paar hoofdstukken.
+Kijk al eens naar eerste paar hoofdstukken.
 
 ## Databases
 
