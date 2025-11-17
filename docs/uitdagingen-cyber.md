@@ -63,7 +63,7 @@ Neem de volgende zaken op in je overzicht:
 - Zorg voor een lijst van *acces points*: welke toestellen zorgen er voor dat andere apparatuur kan verbinden op het netwerk?
 - Maak een overzicht van de verbindingen tussen alle apparatuur.
  - Zorg dat Wi-Fi en bekabelde verbindingen duidelijk zijn te onderscheiden.
- 
+
 ### Gevorderd: Zet een server op
 
 Benodigdheden:
@@ -95,7 +95,7 @@ Een portal?
 Wat zou je er van vinden als je git server bereikbaar zou zijn onder git.thuis?
 Heb je al pihole draaiend?
 Combineer deze dan met een NGINX deployment en ga aan de slag.
- 
+
 ## Linux
 
 ### Beginner: Introductie cursus Linux
@@ -111,7 +111,7 @@ Kijk al eeens naar eerste paar hoofdstukken.
 
 Benodigdheden:
  - Microsoft Word/Apple Numbers (gratis op MacOS)/LibreOffice Calc (gratis te downloaden)
- 
+
 Tijdens de introductie op het onderwerp databases zal je docent er van uit gaan dat je op zijn minst wel eens hebt gewerkt met Excel of soortgelijke software.
 
 Maak een spreadsheet met daarin op zijn minst een tabel.
@@ -144,8 +144,10 @@ Je kunt hier meteen beginnen: https://www.w3schools.com/html/default.asp
 ### Geavanceerd: Probeer Python
 
 Wil je al snuffelen aan Python?
-Codecademy biedt een beginnerscursus Python3 aan.
-Deze kun je [hier](https://www.codecademy.com/learn/learn-python-3) vinden.
+Onder andere Codecademy en Sololearn bieden een beginnerscursus Python3 aan.
+
+- Codecademy kun je [hier](https://www.codecademy.com/learn/learn-python-3) vinden.
+- Sololearn kun je [hier](https://www.sololearn.com/en/learn/courses/python-developer) vinden.
 
 ### Geavanceerd: Git good!
 
@@ -204,5 +206,7 @@ Verder kun je in het archief duiken, een gave hack van tien jaar geleden is name
 
 ### Geavanceerd: Hacking challenges
 
-TODO - LINKS GAAN HIER
+Een van de bekendere hacking challenge platforms is [Hack the Box](https://www.hackthebox.com/).
+
+Een andere bekende is [Try Hack Me](https://tryhackme.com/).
 

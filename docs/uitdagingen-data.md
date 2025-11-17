@@ -65,7 +65,7 @@ Kijk al eeens naar eerste paar hoofdstukken.
 
 Benodigdheden:
  - Microsoft Word/Apple Numbers (gratis op MacOS)/LibreOffice Calc (gratis te downloaden)
- 
+
 Tijdens de introductie op het onderwerp databases zal je docent er van uit gaan dat je op zijn minst wel eens hebt gewerkt met Excel of soortgelijke software.
 
 Maak een spreadsheet met daarin op zijn minst een tabel.
@@ -98,8 +98,10 @@ Je kunt hier meteen beginnen: https://www.w3schools.com/html/default.asp
 ### Geavanceerd: Probeer Python
 
 Wil je al snuffelen aan Python?
-Codecademy biedt een beginnerscursus Python3 aan.
-Deze kun je [hier](https://www.codecademy.com/learn/learn-python-3) vinden.
+Onder andere Codecademy en Sololearn bieden een beginnerscursus Python3 aan.
+
+- Codecademy kun je [hier](https://www.codecademy.com/learn/learn-python-3) vinden.
+- Sololearn kun je [hier](https://www.sololearn.com/en/learn/courses/python-developer) vinden.
 
 ### Geavanceerd: Git good!
 
