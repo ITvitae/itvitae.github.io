@@ -153,4 +153,3 @@ Verdere uitdagingen per track:
 
 - [Cyber Security Specialist](/uitdagingen/cyber)
 - [Data Engineer/Data Scientist](/uitdagingen/data)
-- [Java Developer](/uitdagingen/java)
