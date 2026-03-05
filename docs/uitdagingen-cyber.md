@@ -6,6 +6,17 @@ permalink: /uitdagingen/cyber/
 
 # ITvitae Oriëntatie Uitdagingen - Cyber Security Specialist
 
+## PowerShell
+
+### Iedereen: PowerShell 101
+
+Tijdens de studie zul je gebruik maken van MS PowerShell.
+Je kunt je [hier](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started) alvast inlezen.
+De link naar het volgende hoofdstuk staat onderaan de pagina.
+
+Vind je deze nog wat te pittig?
+Geen probleem, we bieden ditzelfde boek ook nog eens aan tijdens de cursus.
+
 ## Networking
 
 ### Beginner: Vind je verbinding met het internet
